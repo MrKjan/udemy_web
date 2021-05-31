@@ -1,0 +1,17 @@
+/*Selector
+{
+    Property: value
+}
+*/
+
+h2 {
+    color: palevioletred;
+}
+
+p {
+    color: orange;
+}
+
+p {
+    color: goldenrod;
+}
