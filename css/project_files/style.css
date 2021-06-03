@@ -6,21 +6,15 @@
 
 body {
     display: block;
-    background:none;
+    background: url(img/catbread.jpg);
+    background-size: 100% auto;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
 }
 
-.cat::after {
-    content: "";
-    background-image: url(img/catbread.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 0.35;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    position: fixed;
-    z-index: -1; 
+.cat {
+    background: rgba(255,255,255,0.7);
 }
 
 h2 {
