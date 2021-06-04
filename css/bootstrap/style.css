@@ -1,0 +1,6 @@
+.col {
+    background-color: rgba(128, 128, 128, 0.418);
+    border: 2px;
+    border-style: ridge;
+    border-color: indianred;
+}
