@@ -1,0 +1,24 @@
+/*Selector
+{
+    Property: value
+}
+*/
+
+h2 {
+    color: palevioletred;
+}
+
+p {
+    color: orange;
+}
+
+p {
+    color: goldenrod;
+}
+
+.boxmodel {
+    border: 5px solid red;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 0px 15px;
+}

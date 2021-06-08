@@ -1,0 +1,46 @@
+/*Selector
+{
+    Property: value
+}
+*/
+
+body {
+    display: block;
+    background: url(img/catbread.jpg);
+    background-size: 100% auto;
+    background-attachment:fixed;
+    background-repeat:inherit;
+    margin: 0px;
+    padding: 0px;
+}
+
+.cat {
+    background: rgba(255,255,255,0.65);
+}
+
+section {
+    margin: 20px;
+    border: 5px solid purple;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    border: 5px solid purple;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+h4 {
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 7px;
+    padding-right: 7px;
+    text-align: justify;
+}
